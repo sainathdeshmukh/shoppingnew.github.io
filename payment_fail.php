@@ -1,0 +1,1 @@
+<?phpsession_start();echo '<b>Transaction In Process, Please do not reload</b>';header('location:order-history.php');?>
